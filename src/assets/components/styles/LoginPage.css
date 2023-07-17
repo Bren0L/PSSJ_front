@@ -1,0 +1,17 @@
+div {
+    text-align: center;
+}
+
+label {
+    color:azure;
+    font-size: 20pt;
+}
+
+input {
+    margin: 10px;
+    font-size: 20px;
+}
+
+form {
+    margin-top: 10%;
+}
